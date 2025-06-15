@@ -9,3 +9,4 @@
 | Dzikrina Hidayani Martin | 5025231311 |
 
 ## Penjelasan Lengkap ANOVA
+https://github.com/killervaps/ProbStat_ANOVA_8/blob/main/8_ANOVA.ipynb
